@@ -3,7 +3,10 @@
 ## 📝 Description
 A modern web mapping application built using OpenLayers and GeoServer that allows users to visualize geographical data, create spatial features, and interact with maps. The application includes drawing tools, geolocation features, and spatial data management capabilities.
 
-## Architecture
+## 🎥 Demonstration Video
+[Watch the video demonstration] (https://drive.google.com/file/d/1rEUoAbCJ5VMjKmU1QI1vFfbVJpvZ1qUr/view?usp=sharing)
+
+## 🛠 Architecture
 ![architecture](https://github.com/user-attachments/assets/28516ba5-f16f-4706-8136-46239a6f36fb)
 
 ## Screenshots
