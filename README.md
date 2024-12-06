@@ -75,7 +75,6 @@ node server.js
 5. Draw features on the map and save them to the database
 
 ##  👥 Authors
-Nouha BEN HAMADA 
+[Nouha Ben Hamada](https://github.com/nouhabenhamada) & [Nour Laabidi](https://github.com/nourlabidi) 
 
-Nour LAABIDI
 
