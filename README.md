@@ -1,4 +1,4 @@
-# 🌍 Web GIS Application with OpenLayers & GeoServer 🗺️
+## 🌍 Web GIS Application with OpenLayers & GeoServer 🗺️
 
 ## 📝 Description
 A modern web mapping application built using OpenLayers and GeoServer that allows users to visualize geographical data, create spatial features, and interact with maps. The application includes drawing tools, geolocation features, and spatial data management capabilities.
