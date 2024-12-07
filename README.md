@@ -56,7 +56,7 @@ cd Web-Mapping-Application-OpenLayers-GeoServer
 ```javascript
 npm install
 ```
-3. Configure database connection in server.js:
+3. Configure database connection :
 ```javascript
 const db = {
     host: 'your_host',
